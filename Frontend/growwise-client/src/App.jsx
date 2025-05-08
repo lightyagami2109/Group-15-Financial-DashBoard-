@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Login from './components/Login.jsx';
 import Signup from './components/Signup.jsx';
 import Dashboard from "./components/Dashboard.jsx";
+import Navbar from './components/Navbar.jsx';
 
 const App = () => (
   <BrowserRouter>
