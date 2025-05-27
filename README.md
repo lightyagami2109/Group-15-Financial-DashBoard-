@@ -1,4 +1,4 @@
-# 🌿 GroWise – Smart Financial Planning Web App
+# 🌱 GroWise – Smart Financial Planning Web App
 
 ## 🎯 Overview
 GroWise is a modern, user-friendly personal finance management platform designed to help users track income, manage expenses, plan investments, and make smarter financial decisions. It ensures a seamless UI/UX experience, requiring minimal clicks for users to access key features—optimized for daily use.
